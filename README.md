@@ -3,12 +3,15 @@
 
 Chào mừng đến với Respository của **Muối Team**
 
-> ### Thành viên
+> ### 👨‍💼 Thành viên
 > ... (Chủ sỡ hữu)
 > 
 > hungdev123 (Host)
 > 
 > ... (Coder)
 
-### Updatelogs
+### ✨ Updatelogs
 > - N/A
+
+### 📦 Kế hoạch
+> - Build 1 website (Dùng Github)
