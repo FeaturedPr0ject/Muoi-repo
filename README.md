@@ -1,2 +1,9 @@
-# Muoi-repo
-Repository thuộc về Đào Thành Hải Team
+# 🚀 Muoi-repo
+> ## Repository thuộc về Muối Team
+
+Chào mừng đến với Respository của **Muối Team**
+
+> ### Thành viên
+> ... (Chủ sỡ hữu)
+> hungdev123 (Host
+> ... (Coder)
