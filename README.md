@@ -1,17 +1,19 @@
-# 🚀 Muoi-repo
+# 🚀 Muoi-Site
 > ## Repository thuộc về Muối Team
 
 Chào mừng đến với Respository của **Muối Team**
 
 > ### 👨‍💼 Thành viên
-> [daothanhhai1192](https://github.com/daothanhhai1192) (Chủ sỡ hữu)
+> [daothanhhai1192](https://github.com/daothanhhai1192) (Chủ sở hữu)
 > 
-> [hungdev123](https://github.com/hungdev123) (Host)
+> [hungdev123](https://github.com/hungdev123) (Web Host)
 > 
-> ... (Coder)
+> Đang tuyển... (Coder)
 
 ### ✨ Updatelogs
-> - N/A
+> Xem thêm tại kênh "cập-nhật-chính" trong **Đế quốc Muối**
 
 ### 📦 Kế hoạch
-> - Build 1 website (Dùng Github)
+> - **Tháng 3/2026:** Build 1 website (Dùng Github)
+
+*Bạn chưa vào Đế quốc Muối?* [Vào ngay!](https://discord.gg/bgtEyJvYAK)
