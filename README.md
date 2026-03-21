@@ -19,4 +19,4 @@ Chào mừng đến với Respository của **Muối Team**
 *Bạn chưa vào Đế quốc Muối?* [Vào ngay!](https://discord.gg/bgtEyJvYAK)
 
 
-Nếu bạn muốn đóng góp cho cộng đồng? Bạn có thể trở thành Staff hoặc collab với chúng mình
+Nếu bạn muốn đóng góp cho cộng đồng, Bạn có thể trở thành Staff hoặc collab với chúng mình.
