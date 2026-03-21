@@ -6,7 +6,7 @@ Chào mừng đến với Respository của **Muối Team**
 > ### 👨‍💼 Thành viên
 > [daothanhhai1192](https://github.com/daothanhhai1192) (Chủ sở hữu)
 > 
-> [hungdev123](https://github.com/hungdev123) (Web Host)
+> [hungdev123](https://github.com/hungdev123) (Host)
 > 
 > [FeaturePr0ject](https://github.com/FeaturedPr0ject) (Coder)
 
@@ -14,7 +14,7 @@ Chào mừng đến với Respository của **Muối Team**
 > Xem thêm tại kênh "cập-nhật-chính" trong **Đế quốc Muối**
 
 ### 📦 Kế hoạch
-> - **Tháng 3/2026:** Build 1 website (Dùng Github) https://muoi.vercel.app/
+> - **Tháng 3/2026:** Build 1 website (Dùng Github) ✅ Đã hoàn thành phiên bản chưa ổn định
 
 *Bạn chưa vào Đế quốc Muối?* [Vào ngay!](https://discord.gg/bgtEyJvYAK)
 
