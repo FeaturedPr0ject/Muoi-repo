@@ -14,7 +14,4 @@
 > [!IMPORTANT]
 > important test
 
-
-> ## Chào mừng tới test của ConeUi
-
-> [FeaturePr0ject](https://github.com/FeaturedPr0ject) (DỰ ÁN TESTER)
+> [FeaturePr0ject](https://github.com/FeaturedPr0ject) (CHỦ DỰ ÁN TESTER)
