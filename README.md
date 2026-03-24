@@ -1,28 +1,20 @@
 # 🚀 Muoi-Repo
 > [!CAUTION]
-> idk
-[!CAUTION]
-> ## Repository thuộc về Muối Team
+> Caution Test
 
-Chào mừng đến với Respository của **Muối Team**
+> [!TIP]
+>Tip test
 
-> ### 👨‍💼 Thành viên
-> [daothanhhai1192](https://github.com/daothanhhai1192) (Chủ sở hữu)
-> 
-> [hungdev123](https://github.com/hungdev123) (Host)
-> 
-> [FeaturePr0ject](https://github.com/FeaturedPr0ject) (Coder)
+> [!WARNING]
+> Warning test
 
-### ✨ Updatelogs
-> Xem thêm tại kênh "server-update" trong **Đế quốc Muối**
+> [!NOTE]
+> Note test
 
-### 📦 Kế hoạch
-> - **Tháng 3/2026:** Build 1 website (Dùng Github) ✅ Đã hoàn thành bản demo chưa ổn định
-
-*Bạn chưa vào Đế quốc Muối?* [Vào ngay!](https://discord.gg/bgtEyJvYAK)
+> [!IMPORTANT]
+> important test
 
 
-Nếu bạn muốn đóng góp cho cộng đồng, Bạn có thể trở thành Staff hoặc collab với chúng mình.
+> ## Chào mừng tới test của ConeUi
 
-> [!CAUTION]
-> Việc **COPY** Repository của MuoiTeam sẽ gây ra ảnh hưởng lớn. Nếu có biến cố gì chúng tôi sẽ không chịu trách nhiệm.
+> [FeaturePr0ject](https://github.com/FeaturedPr0ject) (DỰ ÁN TESTER)
